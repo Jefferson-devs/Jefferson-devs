@@ -5,9 +5,9 @@
  <br>
   
 - 📍 São Paulo, Zona leste - Penha
-- 💻 Desenvolvedor FullStack Java Jr | Java | Spring Boot | SCRUM | HTML5 | CSS3 | JavaScript | Angular | MySQL | GIT E GITHUB
+- 💻 Desenvolvedor FullStack Java Jr | Java | Spring Boot | SCRUM | HTML5 | CSS3 | JavaScript | Angular | MySQL | GIT | GITHUB
 
-- 👨‍🎓 Formando em T.I Tecnologia da Informação
+- 👨‍🎓 Formando em T.I - Tecnologia da Informação (UNICID UNIVERSIDADE CIDADE DE S. PAULO)
 - 📚 Aluno da Generation Brasil
 - 🏋️‍♂️ Amante do Esporte de Musculaçao
 
