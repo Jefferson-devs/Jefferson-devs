@@ -1,7 +1,7 @@
 # Olá! Me chamo Jefferson Soares.
 
 #### Meu propósito é desenvolver projetos de software capaz de facilitar e transformar a vida das pessoas.
- <img align = "right" width="185cm" height="150cm" src="https://github.com/Jefferson-devs/Jefferson-devs/blob/main/home-office.jpg"/> 
+ 
  <br>
  
 - 📍 São Paulo, Zona leste - Penha
