@@ -1,17 +1,15 @@
 # Olá! Me chamo Jefferson Soares.
 
 #### Meu propósito é desenvolver projetos de software capaz de facilitar e transformar a vida das pessoas.
-  
+ <img align = "right" width="185cm" height="150cm" src="https://github.com/Jefferson-devs/Jefferson-devs/blob/main/home-office.jpg"/> 
  <br>
-  
+ 
 - 📍 São Paulo, Zona leste - Penha
-- 💻 Desenvolvedor FullStack Java Jr | Java | Spring Boot | SCRUM | HTML5 | CSS3 | JavaScript | Angular | MySQL | GIT | Soft Skills
-
+- 💻 Desenvolvedor FullStack Java Jr 
+- Soft Skills  
 - 👨‍🎓 Formando em T.I - Tecnologia da Informação (UNICID UNIVERSIDADE CIDADE DE S. PAULO)
-- 📚 Aluno da Generation Brasil
+- 📚 Aluno da Generation Brasil 
 - 🏋️‍♂️ Amante do Esporte de Musculaçao
-
-<img height="180em" src=""/>
 
 <br>
   
