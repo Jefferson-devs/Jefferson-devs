@@ -6,7 +6,7 @@
 - 📍 São Paulo, Zona leste - Penha
 - 💻 Desenvolvedor FullStack Java Jr  |  Soft Skills
 - 👨‍🎓 Formando em T.I - Tecnologia da Informação (UNICID UNIVERSIDADE CIDADE DE S. PAULO)
-- 📚 Aluno da Generation Brasil 
+- 📚 Autoditada
 - 🏋️‍♂️ Amante do Esporte de Musculaçao
 
 ## <div>
