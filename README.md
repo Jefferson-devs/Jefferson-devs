@@ -1,8 +1,5 @@
 ## Olá! Me chamo Jefferson Soares 
 
-
-<img align = "right" width="1000cm" height="180cm" src="https://github.com/Jefferson-devs/Jefferson-devs/blob/main/Capa%20do%20GITHUB.jpg"/>
-
 - 📍 São Paulo, Zona leste - Penha
 - 💻 Desenvolvedor FullStack Java Jr  |  Soft Skills
 - 👨‍🎓 Formando em T.I - Tecnologia da Informação (UNICID UNIVERSIDADE CIDADE DE S. PAULO)
